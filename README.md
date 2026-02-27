@@ -1,5 +1,5 @@
 # Bubble-Sort-
-bubble
+bubbl
 #include <iostream>
 using namespace std;
 
